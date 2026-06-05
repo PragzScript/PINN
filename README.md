@@ -167,7 +167,7 @@ PINNs are increasingly used as a mesh-free, data-efficient alternative to tradit
 
 Final-year B.Tech CS | University Topper (8.4 GPA)
 
-[LinkedIn](https://linkedin.com/in/YOUR_PROFILE) • [GitHub](https://github.com/PragzScript)
+[LinkedIn](https://www.linkedin.com/in/pragya-jha-1399192a9) • [GitHub](https://github.com/PragzScript)
 
 > "Neural networks can replace traditional numerical PDE solvers — this project demonstrates exactly that."
 
